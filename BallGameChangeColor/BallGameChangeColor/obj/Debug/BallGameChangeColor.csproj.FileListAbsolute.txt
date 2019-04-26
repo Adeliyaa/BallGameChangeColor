@@ -1,0 +1,10 @@
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\bin\Debug\BallGameChangeColor.exe.config
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\bin\Debug\BallGameChangeColor.exe
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\bin\Debug\BallGameChangeColor.pdb
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.csprojAssemblyReference.cache
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.Form1.resources
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.Properties.Resources.resources
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.csproj.GenerateResource.cache
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.csproj.CoreCompileInputs.cache
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.exe
+C:\Users\Аделия\source\repos\BallGameChangeColor\BallGameChangeColor\obj\Debug\BallGameChangeColor.pdb
